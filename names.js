@@ -8,3 +8,5 @@ magigi
 anita
 zaina
 benard
+juma
+jaski
